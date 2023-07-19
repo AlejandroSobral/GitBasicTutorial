@@ -33,7 +33,14 @@
 </p>
 ```
 
-![Working](https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif)
+``` java
+<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="250" height="250" align="center"/>
+
+```
+
+
+<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="150" height="150" align="left"/>
+
 
 
 <p align="center">
